@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/ousmane/.android/build-cache/cfb4bae1a3bf07e57821c369595864497eb972e7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/ousmane/AndroidStudioProjects/TextDrawable/sample/build/intermediates/pre-dexed/debug/classes_a2cc6f058ebfcd085a1285c3ab3b40868882dd38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ousmane/AndroidStudioProjects/TextDrawable/library/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa54eeebaf951f475fdf952e7a0269144ec87255">
+        <dex dex="/home/ousmane/AndroidStudioProjects/TextDrawable/sample/build/intermediates/pre-dexed/debug/classes_f4c45564941569986f6c983a3faf20e1c7d0a206.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ousmane/.android/build-cache/cfb4bae1a3bf07e57821c369595864497eb972e7/output/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/ousmane/AndroidStudioProjects/TextDrawable/sample/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_c3b433a09ae81bcbd74057b25a2d69cceec536dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ousmane/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/ousmane/AndroidStudioProjects/TextDrawable/sample/build/intermediates/pre-dexed/debug/support-annotations-21.0.3_8fce84b741c3736d4b0c05937a92bd293c239984.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ousmane/.android/build-cache/01306445b2d4c10ead74b9b84528ad799cff9ff9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/ousmane/AndroidStudioProjects/TextDrawable/sample/build/intermediates/pre-dexed/debug/classes_8bd2dac3fa7b6b0c333de6f5e33b87a1615d52b5.jar" />
+    </item>
+
+</items>
